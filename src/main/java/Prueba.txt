@@ -1,1 +1,2 @@
-El contenido que este en este archivo se guardara en la rama prueba-Antonio
+El contenido que este en este archivo se guardara en la rama prueba-Antonio, ahora esta conectado a un proyecto de GitHub esto permite el trabajo en equipo en el proyecto actual
+
